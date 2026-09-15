@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Collimedaglia Valerio
+Copyright (c) 2026 Forneris Andrea
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
