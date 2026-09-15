@@ -54,8 +54,8 @@ Using historical global data from 2000 to 2020, the goal is to classify countrie
 Clone the repository:
 
 ```bash
-git clone https://github.com/HackCollus/global-sustainable-energy-ml.git
-cd global-sustainable-energy-ml
+   git clone https://github.com/andrea-forneris/renewable-energy-adoption-classification.git
+   cd renewable-energy-adoption-classification
 ```
 
 Install the required packages:
